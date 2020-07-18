@@ -6,7 +6,7 @@
 
 
   [![Author](https://img.shields.io/badge/author-lcsdiniz-A8A8B3?style=flat-square)](https://www.linkedin.com/in/lcsdiniz/)
-  [![Languages](https://img.shields.io/github/languages/count/lcsdiniz/github-explorer?color=%A8A8B3&style=flat-square)](#)
+  [![Languages](https://img.shields.io/github/languages/count/lcsdiniz/github-explorer?color=A8A8B3&style=flat-square)](#)
   [![Stars](https://img.shields.io/github/stars/lcsdiniz/github-explorer?color=A8A8B3&style=flat-square)](https://github.com/lcsdiniz/github-explorer/stargazers)
 
 <p align="center">
